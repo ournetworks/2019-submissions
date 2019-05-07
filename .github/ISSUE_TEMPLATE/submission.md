@@ -10,7 +10,7 @@ assignees: ''
 
 [Description that is 1-2 paragraphs (75 - 150 words)]
 
-Type: [talk | panel | workshop | lightening talk | demos | performance | other (describe!)]  
+Type: [talk | panel | workshop | lightning talk | demos | performance | other (describe!)]  
 Length: [<30 minutes | 1 hour | 2 hour | half-day | N/A]  
 Additional considerations: [e.g., max number of participants, access]  
 
@@ -20,7 +20,7 @@ Additional considerations: [e.g., max number of participants, access]
 
 ## Material and Technical Requirements
 
-[List materials you as presenter require AND any participant materials (indicate if there would be support required for a purchase/cost). Include equipment, technical, and installation requirements if applicable. We will aim to accommodate where possible]
+[List materials you as presenter require AND any participant materials (indicate if support is required for a purchase/cost). Include equipment, technical, and installation requirements if applicable. We will aim to accommodate where possible]
 
 ## Presenter(s)
 
