@@ -30,7 +30,8 @@ Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another
 Twitter: [@you](url to twitter account)  
 GitHub: [you](url to GitHub account)  
 
-Interested in a community billet: [host | billet | N]
+As organizers we strive for low-cost pathways of participation, are you interested in a community billet program either hosting out-of-towners or staying with locals?
+[host | billet | N]
 
 ## Presenter Bio
 
