@@ -1,4 +1,10 @@
-# Submission Title
+---
+name: Submission template
+about: Propose a session for Our Networks 2019.
+title: '[Submission Title]'
+labels: ''
+assignees: ''
+---
 
 ## Description
 
