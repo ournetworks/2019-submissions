@@ -30,7 +30,7 @@ Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another
 Twitter: [@you](url to twitter account)  
 GitHub: [you](url to GitHub account)  
 
-Interested in a community billet: [host|billet|N]
+Interested in a community billet: [host | billet | N]
 
 ## Presenter Bio
 
