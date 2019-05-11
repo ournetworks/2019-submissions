@@ -1,5 +1,5 @@
 ---
-name: Proposal submission
+name: Proposal Submission
 about: Propose a session for Our Networks 2019.
 title: '[Submission Title]'
 labels: ''
