@@ -12,7 +12,9 @@ assignees: ''
 
 Type: [talk | panel | workshop | lightning talk | demos | performance | other (describe!)]  
 Length: [<30 minutes | 1 hour | 2 hour | half-day | N/A]  
+Language: [english | french | spanish | ojibwe | other (describe!)]
 Additional considerations: [e.g., max number of participants, access]  
+
 
 ## Session Objective
 
